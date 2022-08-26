@@ -2,13 +2,18 @@
 Simple example of Redis and node-cache with nodeJs 
 
 ### To Run Redis cache 
-`cd redis`\
-`npm install`\
-`node index`
+```Bash
+cd redis
+npm install
+node index
+```
 
-##### get and set methods are Deprecated
+***Get and Set methods are Deprecated***
 
 ### To Run node-cache 
-`cd node-cache`\
-`npm install`\
-`node index`
+
+```Bash
+cd node-cache
+npm install
+node index
+```
